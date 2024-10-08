@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/Hour_of_Code/Widgets/WBP_HealthAndScore.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/Hour_of_Code/Widgets/WBP_GameOver.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/New_Level.umap",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/Pursuer_AIController.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/BP_Pursuer.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/EAIState.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_Collectable.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BP_MortarShot.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BP_Explosion.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/Hour_of_Code/Static_Meshes/SM_FloatingIsland_S.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BP_Mortar.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BP_DeathHeight.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/BP_Shooter.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BP_ShooterShot.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/Shooter_AIController.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Assets/Characters/Character/Mesh/SK_ShooterCharacter.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/Hour_of_Code/Materials/M_MASTER_OPAQUE.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/Hour_of_Code/Materials/MI_Checkpoint.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Robots/Materials/Widget3DPassThrough_Facing.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BP_End.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/Hour_of_Code/Widgets/WBP_NotWin.uasset",
+				"C:/Users/nerella2/Downloads/UnrealLearningKit/Content/Hour_of_Code/Widgets/WBP_Victory.uasset"
+			]
+		}
+	]
+}
